@@ -3,6 +3,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/matteocrippa/awesome-swift)
 [![Platform](https://img.shields.io/badge/Language-Swift_5.0-orange.svg)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)
 ![Xcode](https://img.shields.io/badge/Xcode-11.5-blue.svg)
+
+
 ![Demo](https://github.com/JackyGajjar/SwitchButton/blob/master/switch_button.gif?raw=true)
 
 
