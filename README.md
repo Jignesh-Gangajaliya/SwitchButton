@@ -1,4 +1,4 @@
-## Switch On/Off Control
+## On/Off Custom Control
 
 # Introduction
 
