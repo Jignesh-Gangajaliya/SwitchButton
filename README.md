@@ -3,9 +3,10 @@
 # Introduction
 
 This class aims to make it super-easy to on/off event button, example, Check/Uncheck button, Radio Button On/Off, Switch On/Off.
-**All you need is just On/Off Control Image.**
+**All you need is just images of On/Off.**
 
 **You can also get the button click event using confirming the SwitchButtonDelegate Protocol**
+
 
 ## Usage
 
